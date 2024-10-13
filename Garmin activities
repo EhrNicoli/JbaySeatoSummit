@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Garmin Activities</title>
+</head>
+<body>
+    <h2>Jbay Sea to Summit MTB Part</h2>
+    <iframe src="https://connect.garmin.com/modern/activity/embed/17263014899" title="Jbay Sea to Summit MTB part" width="465" height="500" frameborder="0"></iframe>
+
+    <h2>Jbay Sea to Summit Trail Part</h2>
+    <iframe src="https://connect.garmin.com/modern/activity/embed/17268285698" title="Jbay Sea to Summit Trail part" width="465" height="500" frameborder="0"></iframe>
+</body>
+</html>
